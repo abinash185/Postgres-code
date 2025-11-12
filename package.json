@@ -9,5 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "joi": "^18.0.1",
+    "morgan": "^1.10.1",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "nodemon": "^3.1.11"
+  }
 }
